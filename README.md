@@ -27,8 +27,6 @@ simon.flenman1@gmail.com
 
 <h2> 💻 Technologies:</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonflenman&layout=compact&langs_count=8&theme=tokyonight)
-
 ### **Languages**
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
