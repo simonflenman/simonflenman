@@ -1,4 +1,4 @@
-<h1>Hello, my name is <a href="mailto:simon.flenman1@gmail.com">Simon</a>! <br/><a href="https://github.com/simonflenman">Programmer</a>, <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Computer Science Student</a>
+<h1>Hello, my name is <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Simon</a>! <br/><a href="https://github.com/simonflenman">Programmer</a>, <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Computer Science Student</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
