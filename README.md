@@ -24,3 +24,5 @@ simon.flenman1@gmail.com
 
 [linkedin]: https://www.linkedin.com/in/simon-flenman-97b919308/
 [instagram]: https://www.instagram.com/simonflenman/
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simonflenman&layout=compact)
