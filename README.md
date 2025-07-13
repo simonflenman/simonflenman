@@ -1,26 +1,25 @@
-<h1>Hello, my name is <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Simon</a>! <br/><a href="https://github.com/simonflenman">Programmer</a>, <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Computer Science Student</a>
+<h1>Hello, my name is <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Simon</a>! <br/><a href="https://github.com/simonflenman">Programmer</a>, <a href="https://www.linkedin.com/in/simon-flenman-97b919308/">Computer Science Student</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Computer Science Student</b>
-  - Currently working on my bachelor thesis in cyber security
-- <b>Language learner: AI-Driven Real-Time Conversational Analytics (NodeJS, FireBase, OpenAI)</b>
-  - [SpeechAI server](https://github.com/marcuslarsson92/SpeechAI_Server) <b>
-- <b>Finans Portalen webpage: Your Social Trading Hub (HTML, CSS, JavaScript)</b>
-  - [Finans Portalen (Frontend)](https://github.com/marcuslarsson92/FP_First)
-- <b>Marketplce: Modern marketplace web application (Java, Spring Boot, Spring Security, MongoDB)</b>
-  - [MarketPlace](https://github.com/Just4rthur/MarketPlace/tree/main)
-- <b>OnlineStore: A PostgreSQL-Powered Marketplace (Java, PostgreSQL)</b>
-  - [OnlineStore](https://github.com/marcuslarsson92/OnlineStore)
-- <b>Rise: Monopoly based medieval boardgame(Java, Building on pre-existing code)</b>
-  - [Rise](https://github.com/Villie99/Rise-Project)
+- <b>Bachelor Thesis: Machine Learning for Intrusion Detection in Network Traffic</b> (Python, TensorFlow, scikit-learn, HDBSCAN)  
+  - 📄&nbsp;<a href="">Read the thesis</a> • <a href="https://github.com/simonflenman/intrusion-detection-thesis">Project code</a>
+- <b>Language learner: AI-Driven Real-Time Conversational Analytics (NodeJS, Firebase, OpenAI)</b>  
+  - <a href="https://github.com/marcuslarsson92/SpeechAI_Server">SpeechAI server</a>
+- <b>Finans Portalen: Your Social-Trading Hub (HTML, CSS, JavaScript)</b>  
+  - <a href="https://github.com/marcuslarsson92/FP_First">Finans Portalen (Frontend)</a>
+- <b>Marketplace: Modern marketplace web application (Java, Spring Boot, Spring Security, MongoDB)</b>  
+  - <a href="https://github.com/Just4rthur/MarketPlace/tree/main">Marketplace</a>
+- <b>OnlineStore: A PostgreSQL-Powered Marketplace (Java, PostgreSQL)</b>  
+  - <a href="https://github.com/marcuslarsson92/OnlineStore">OnlineStore</a>
+- <b>Rise: Monopoly-style medieval board game (Java)</b>  
+  - <a href="https://github.com/Villie99/Rise-Project">Rise</a>
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="simonflenman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="simonflenman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 simon.flenman1@gmail.com
-
 
 [linkedin]: https://www.linkedin.com/in/simon-flenman-97b919308/
 [instagram]: https://www.instagram.com/simonflenman/
@@ -36,6 +35,12 @@ simon.flenman1@gmail.com
 ![AVR Assembly](https://img.shields.io/badge/AVR%20ASSEMBLY-FF5733?style=for-the-badge)
 
 ### **Frameworks & Libraries**
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/SKLEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![HDBSCAN](https://img.shields.io/badge/HDBSCAN-0B4F6C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzEiIGhlaWdodD0iMzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIvPg==)
 ![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -54,4 +59,3 @@ simon.flenman1@gmail.com
 ### **Tools & Platforms**
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Arduino](https://img.shields.io/badge/ARDUINO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
