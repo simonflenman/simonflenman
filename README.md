@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Bachelor Thesis: Machine Learning for Intrusion Detection in Network Traffic</b> (Python, TensorFlow, scikit-learn, HDBSCAN)  
+- <b>Bachelor Thesis: Machine Learning for Intrusion Detection in Network Traffic (Python, TensorFlow, scikit-learn, HDBSCAN)</b>
   - 📄&nbsp;<a href="https://mau.diva-portal.org/smash/record.jsf?dswid=4651&pid=diva2%3A1984505&c=1&searchType=SIMPLE&language=sv&query=Simon+Flenman&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all">Read the thesis</a> • <a href="https://github.com/simonflenman/intrusion-detection-thesis">Project code</a>
 - <b>Language learner: AI-Driven Real-Time Conversational Analytics (NodeJS, Firebase, OpenAI)</b>  
   - <a href="https://github.com/marcuslarsson92/SpeechAI_Server">SpeechAI server</a>
